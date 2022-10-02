@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end developmennt
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate and connect with great minds like you!
-- 📫 How to reach me Morlyz2000@gmail.com
+- 📫 How to reach me morlyz2000@gmail.com
 
 <!---
 Morlyz/Morlyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
